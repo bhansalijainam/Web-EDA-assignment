@@ -1,0 +1,41 @@
+
+{
+    "albums": [
+        {
+            "title": "Kishore Kumar's Greatest Hits",
+            "artist": "Kishore Kumar",
+            "songs": [
+                "Roop Tera Mastana",
+                "Pal Pal Dil Ke Paas",
+                "Mere Sapno Ki Rani",
+                "Kuch Toh Log Kahenge",
+                "O Saathi Re"
+            ],
+            "year": 1984
+        },
+        {
+            "title": "Lata Mangeshkar's Greatest Hits",
+            "artist": "Lata Mangeshkar",
+            "songs": [
+                "Lag Ja Gale",
+                "Tere Bina Zindagi Se",
+                "Tujhse Naraz Nahi Zindagi",
+                "Aapki Nazron Ne Samjha",
+                "Kabhi Kabhi Mere Dil Mein"
+            ],
+            "year": 1980
+        },
+        {
+            "title": "Rahat Fateh Ali Khan: Greatest Hits",
+            "artist": "Rahat Fateh Ali Khan",
+            "songs": [
+                "Tere Mast Mast Do Nain",
+                "Jiya Dhadak Dhadak Jaye",
+                "O Re Piya",
+                "Tum Jo Aaye",
+                "Teri Ore"
+            ],
+            "year": 2011
+        }
+    ]
+}
